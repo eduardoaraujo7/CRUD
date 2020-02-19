@@ -1,0 +1,5 @@
+C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DTO\bin\Debug\ProcTeste.DTO.dll
+C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DTO\bin\Debug\ProcTeste.DTO.pdb
+C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DTO\obj\Debug\ProcTeste.DTO.csprojAssemblyReference.cache
+C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DTO\obj\Debug\ProcTeste.DTO.dll
+C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DTO\obj\Debug\ProcTeste.DTO.pdb
