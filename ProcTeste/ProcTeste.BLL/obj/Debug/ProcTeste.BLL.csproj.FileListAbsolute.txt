@@ -8,3 +8,13 @@ C:\Users\dufan\source\repos\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.cspr
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.csproj.CopyComplete
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.dll
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.pdb
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.BLL.dll
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.BLL.pdb
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.DAL.dll
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.DTO.dll
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.DAL.pdb
+D:\projeto\ProcTeste\ProcTeste.BLL\bin\Debug\ProcTeste.DTO.pdb
+D:\projeto\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.csprojAssemblyReference.cache
+D:\projeto\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.csproj.CopyComplete
+D:\projeto\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.dll
+D:\projeto\ProcTeste\ProcTeste.BLL\obj\Debug\ProcTeste.BLL.pdb

@@ -6,3 +6,11 @@ C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.cspr
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.csproj.CopyComplete
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.dll
 C:\Users\dufan\source\repos\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.pdb
+D:\projeto\ProcTeste\ProcTeste.DAL\bin\Debug\ProcTeste.DAL.dll
+D:\projeto\ProcTeste\ProcTeste.DAL\bin\Debug\ProcTeste.DAL.pdb
+D:\projeto\ProcTeste\ProcTeste.DAL\bin\Debug\ProcTeste.DTO.dll
+D:\projeto\ProcTeste\ProcTeste.DAL\bin\Debug\ProcTeste.DTO.pdb
+D:\projeto\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.csprojAssemblyReference.cache
+D:\projeto\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.csproj.CopyComplete
+D:\projeto\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.dll
+D:\projeto\ProcTeste\ProcTeste.DAL\obj\Debug\ProcTeste.DAL.pdb

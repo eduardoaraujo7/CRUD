@@ -9,7 +9,7 @@ namespace ProcTeste.DAL
 {
     public class ProcTesteCommand : IDisposable
     {
-        public SqlCommand CriarComando(string procedure, List<SqlParameter> parameters)
+        public SqlCommand CriarComando(string procedure, List<SqlParameter> parameters = null)
         {
             var command = new SqlCommand();
 
